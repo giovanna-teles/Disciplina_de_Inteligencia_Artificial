@@ -1,2 +1,2 @@
-# Disciplina-de-Intelig-ncia-Artificial
+# Disciplina-de-Inteligencia-Artificial
 Repositório para Disciplina de Inteligência Artificial
