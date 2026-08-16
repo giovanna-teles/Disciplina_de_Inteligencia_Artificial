@@ -1,0 +1,45 @@
+Lista de Exercícios Python
+Vence hoje às 23:59
+•
+Vários envios permitidos
+•
+Fecha hoje às 23:59
+Instruções
+Objetivo
+Você terá a chance de praticar, aprofundar e consolidar seus conhecimentos em Python ao resolver uma seleção de 50 exercícios cuidadosamente escolhidos. Eles abrangem desde os conceitos mais básicos da linguagem, como variáveis, estruturas de repetição e funções, até tópicos de nível intermediário, incluindo manipulação de listas, dicionários, módulos e tratamento de exceções. Essa atividade representa uma excelente oportunidade para revisar conteúdos já estudados, fixar pontos importantes e explorar diferentes possibilidades de uso do Python, ajudando você a se sentir ainda mais confortável com a linguagem e preparado para desafios futuros, tanto acadêmicos quanto profissionais.
+
+Descrição da Tarefa
+Seu desafio é completar todos os 50 exercícios apresentados abaixo, garantindo que cada um seja resolvido de forma autêntica e individual. Utilize o Google Colab como ambiente principal para desenvolver, testar e ajustar cada parte do seu código. É fundamental que o notebook contenha explicações claras e detalhadas sobre o que está sendo feito em cada exercício, facilitando tanto o seu próprio entendimento quanto o de quem for corrigir. Procure detalhar seu raciocínio, justificar suas escolhas e explicar os passos seguidos na resolução de cada problema, mostrando domínio dos conceitos e das práticas de programação em Python.
+
+Instruções para Entrega
+Desenvolvimento:
+
+Programe e teste as soluções dos exercícios propostos exclusivamente no Google Colab, aproveitando os recursos da plataforma.
+Crie um único notebook no Google Colab, reunindo todos os exercícios resolvidos de maneira sequencial, organizada e padronizada.
+Em cada exercício, inclua comentários, explicações e justificativas para demonstrar seu entendimento sobre o que foi solicitado e como você chegou à solução apresentada.
+Envio:
+
+Após finalizar todos os exercícios, compartilhe o link do seu notebook do Google Colab diretamente pelo Teams, seguindo as orientações da turma para garantir que seu trabalho seja recebido corretamente.
+O notebook também deve ser disponibilizado no Github em um repositório exclusivo da Disciplina de Inteligência Artificial. O repositório deverá ser público e conter todos os notebooks desenvolvidos durante a disciplina. O repositório deverá conter um README.md descrevendo os arquivos contidos na disciplina, seu conteúdo e informações pertinentes.
+Formato:
+
+Dê um nome claro, objetivo e padronizado ao seu notebook, seguindo o modelo: Exercícios_Python_[SeuNome][Turma][Período].ipynb. Isso facilita a identificação, organização e arquivamento dos trabalhos enviados.
+Prazo:
+
+O envio deve ser realizado até o dia 14/08/2026, às 23h59. Fique atento ao prazo para evitar contratempos de última hora e garantir que sua atividade seja considerada para avaliação.
+Critérios de Avaliação
+Correção: Seu código precisa funcionar corretamente, sem apresentar erros, e atender a todos os requisitos de cada exercício proposto.
+Clareza e organização: Mantenha o código limpo, bem comentado, legível e organizado, facilitando a leitura, compreensão e análise por parte do avaliador.
+Funcionamento: Os programas devem rodar sem erros, apresentando os resultados esperados conforme as propostas dos exercícios.
+Observações Importantes
+Cada aluno deve realizar e entregar sua própria atividade de forma individual, sem copiar ou compartilhar respostas com colegas. O trabalho em equipe não é permitido nesta atividade.
+Caso seja identificado o uso de inteligência artificial (IA) na elaboração das respostas, a atividade será anulada e desconsiderada para fins de nota, conforme as regras da disciplina.
+Essa atividade é parte fundamental da sua avaliação na M1, então capriche tanto no desenvolvimento do código quanto nas explicações e justificativas apresentadas.
+A inexistência do notebook no repositório do Github reduzirá a nota da atividade pela metade, sem a possibilidade de revisão de nota. O aluno deverá criar um release do repositório todas as vezes que fizer a entrega de uma nova atividade. O release deverá ter a data da entrega da atividade.
+Dicas para te ajudar:
+
+Leia cada exercício com atenção e identifique quais conceitos de Python estão sendo cobrados (variáveis, listas, funções, etc).
+Use comentários no seu código para explicar o que está fazendo e por que escolheu aquela abordagem.
+Teste seu código com diferentes exemplos para garantir que ele funciona corretamente em todas as situações.
+
+Se surgir qualquer dúvida durante a realização dos exercícios, não hesite em procurar o professor da disciplina para esclarecimentos. Aproveite a oportunidade para aprender ainda mais e fortalecer seu domínio em Python. Boa sorte e bons estudos!
